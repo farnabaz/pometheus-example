@@ -1,0 +1,13 @@
+{
+  "name": "prometheus-example",
+  "version": "1.0.0",
+  "description": "prometheus client example",
+  "main": "index.js",
+  "repository": "git@github.com:farnabaz/pometheus-example.git",
+  "author": "Ahad Birang <farnabaz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "prom-client": "^12.0.0"
+  }
+}
